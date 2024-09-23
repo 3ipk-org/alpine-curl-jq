@@ -1,6 +1,4 @@
-# Logrotate Docker Image Based on Alpine
-
-This repository provides a Docker image for managing log rotation using `logrotate` and `cron` on an Alpine Linux base.
+# Curl + JQ Docker Image Based on Alpine
 
 ## Pulling the Image
 
